@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.git/
+.gitignore
+README.md
+
+chroma_db/
+chunks.json
+embedded_chunks.json

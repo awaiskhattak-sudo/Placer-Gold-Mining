@@ -1,0 +1,12 @@
+fastapi>=0.110,<0.120
+starlette>=0.37,<0.41
+uvicorn[standard]
+jinja2>=3.1
+python-multipart
+python-dotenv
+
+langchain-text-splitters
+
+google-genai
+chromadb
+ollama

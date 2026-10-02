@@ -1,0 +1,53 @@
+{% if error %}
+<div class="bg-red-50 border border-red-200 text-red-700 text-sm rounded-md px-4 py-3">
+    {{ error }}
+</div>
+{% else %}
+
+<div class="bg-white shadow-sm rounded-lg border border-slate-200 p-6">
+
+    <div class="flex items-start justify-between gap-3 mb-4">
+        <div>
+            <p class="text-xs text-slate-400 uppercase tracking-wide mb-1">Question</p>
+            <p class="text-slate-700 font-medium">{{ question }}</p>
+        </div>
+
+        {% if validation.valid %}
+        <span class="shrink-0 bg-green-100 text-green-700 text-xs font-semibold px-3 py-1 rounded-full">
+            ✓ Valid ({{ validation.confidence }}%)
+        </span>
+        {% else %}
+        <span class="shrink-0 bg-red-100 text-red-700 text-xs font-semibold px-3 py-1 rounded-full">
+            ✗ Not Grounded ({{ validation.confidence }}%)
+        </span>
+        {% endif %}
+    </div>
+
+    <div class="mb-4">
+        <p class="text-xs text-slate-400 uppercase tracking-wide mb-1">Answer</p>
+        <p class="text-slate-800 whitespace-pre-line">{{ answer }}</p>
+    </div>
+
+    {% if validation.reasoning %}
+    <div class="mb-4 text-xs text-slate-500 bg-slate-50 rounded-md px-3 py-2">
+        <span class="font-medium">Validity check:</span> {{ validation.reasoning }}
+    </div>
+    {% endif %}
+
+    {% if sources %}
+    <div>
+        <p class="text-xs text-slate-400 uppercase tracking-wide mb-2">Sources</p>
+        <div class="space-y-1">
+            {% for s in sources %}
+            <div class="text-xs text-slate-500 flex justify-between border-b border-slate-100 pb-1">
+                <span>{{ s.source }} (chunk {{ s.chunk_index }})</span>
+                <span class="text-slate-400">distance: {{ "%.4f"|format(s.distance) }}</span>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    {% endif %}
+
+</div>
+
+{% endif %}

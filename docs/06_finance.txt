@@ -1,0 +1,52 @@
+GOLD OPERATION FINANCE: SHAKARDARA LEASE SITES — OUTPUT, COST, AND PROFITABILITY
+
+Lease and Site Overview
+A mining lease has recently been granted across several sites in the Shakardara area along the Indus River, with Shakara Minerals Company holding ownership of the lease. The leased sites include: Jungle Side, Khanano Chanda, Dowaa Khwla, Narla Khwla, Andakyy, and Bajano Chanda. Each site runs the same core workflow described in the operation document (excavation, carpet washing, mercury amalgamation) but output varies between sites depending on soil richness, the depth of the pay layer, and whether a small or big plant is deployed.
+
+Reference Gold Rate Used in This Document
+Calculations below use an approximate reference rate of PKR 39,500 per gram (24-karat), based on mid-2026 local market pricing. Gold prices fluctuate daily based on international bullion trends and the PKR/USD exchange rate, so this rate should be replaced with the same-day local rate (as published by the All-Pakistan Sarafa Gems and Jewellers Association) for any real financial reporting or decision-making.
+
+Small Plant: Daily Output and Profitability
+- Average gold output: 9 to 24 grams per 24-hour cycle
+- Average daily operating expense: equivalent to approximately 5 grams of gold per day
+
+| Scenario | Gold Output (g) | Gross Value (approx.) | Expense (approx., 5g) | Net Profit (approx.) |
+|----------|-----------------|------------------------|-------------------------|------------------------|
+| Low output day | 9 g | PKR 355,500 | PKR 197,500 | PKR 158,000 |
+| High output day | 24 g | PKR 948,000 | PKR 197,500 | PKR 750,500 |
+
+A small plant therefore breaks even at roughly 5 grams/day of output and becomes increasingly profitable above that threshold, with high-output days yielding substantially higher margins since fixed daily costs (labor, fuel, equipment time) do not scale linearly with output.
+
+Big Plant: Daily Output and Profitability
+- Average gold output: 16 to 150 grams per 24-hour cycle
+- Average daily operating expense: equivalent to approximately 9 to 10 grams of gold per day
+
+| Scenario | Gold Output (g) | Gross Value (approx.) | Expense (approx., 9-10g) | Net Profit (approx.) |
+|----------|-----------------|------------------------|-----------------------------|------------------------|
+| Low output day | 16 g | PKR 632,000 | PKR 355,500 - 395,000 | PKR 237,000 - 276,500 |
+| High output day | 150 g | PKR 5,925,000 | PKR 355,500 - 395,000 | PKR 5,530,000 - 5,569,500 |
+
+Big plants carry roughly double the daily operating expense of small plants (in gold-equivalent terms) due to higher fuel consumption (longer 4-hour wash cycles vs. 1.5-hour cycles, more machinery hours) and larger labor crews, but their much higher output ceiling (up to 150g vs. 24g) gives them significantly greater profit potential on strong production days.
+
+Daily Operating Cost Breakdown (Labor and Machinery)
+These individual cost components make up the overall daily expense figures above:
+
+| Role / Resource | Rate | Basis |
+|---|---|---|
+| General laborer | PKR 2,000 | per day |
+| Excavator operation | PKR 1,800 | per hour |
+| Tractor (contracted for the month) | PKR 300,000 ("3 lakh") | per month |
+| Karigar (mercury amalgamation specialist) | PKR 12,000 | per day |
+
+The karigar role commands a significantly higher daily rate than general labor, reflecting both the specialized skill required to correctly amalgamate gold with mercury (maximizing recovery while minimizing wasted mercury and gold loss) and the direct health risk of handling and heating mercury, which carries toxic vapor exposure.
+
+Cost Structure Notes
+- Excavator cost is time-based (hourly), so daily excavator expense depends directly on how many hours it runs during the 24-hour cycle — an excavator running a full 20-hour digging window costs roughly PKR 36,000/day, while one running only 10 hours costs roughly PKR 18,000/day.
+- Tractor cost is fixed on a monthly contract basis (PKR 300,000/month), meaning its effective daily cost (~PKR 10,000/day across a 30-day month) is constant regardless of how many hours it actually works that day — making it more cost-efficient to keep tractors continuously utilized rather than idle.
+- Labor and karigar costs are fixed per-day regardless of output, meaning on low-output days these costs represent a larger proportion of gold recovered, while on high-output days the same fixed labor cost is spread across much more gold, improving margins.
+
+Additional Financial Considerations
+- Purity discount: Raw amalgamated gold recovered on-site is rarely pure 24-karat; local gold dealers typically assess purity and pay a discounted rate below the spot 24K price to account for residual mercury, silver, or other trace metals still present in the sponge gold before refining. Actual cash realized may therefore be somewhat lower than the gross values calculated above using the full 24K spot rate.
+- Site-to-site variance: Since output figures (9-24g small plant, 16-150g big plant) represent a range across all six leased sites, individual sites such as Jungle Side or Andakyy may consistently perform toward the higher or lower end of these ranges depending on local soil richness — tracking output per site separately over time would allow the lease operator to prioritize deployment of big plants toward the historically higher-yielding sites.
+- Price risk: Because profit is ultimately realized in PKR after converting gold to cash, a sustained drop in the gold rate between recovery and sale can materially affect realized profit margins, even if gram output remains constant — some operations manage this by selling recovered gold promptly rather than holding inventory.
+- Cost-per-gram tracking: For consistent financial reporting across sites and over time, it is useful to track a "cost per gram recovered" metric (total daily expense ÷ total grams recovered) similar to the All-In Sustaining Cost (AISC) metric used industry-wide, allowing direct comparison of efficiency between small and big plants, and between different lease sites, regardless of daily gold price fluctuations.

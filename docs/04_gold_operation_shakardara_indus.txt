@@ -1,0 +1,35 @@
+GOLD OPERATION: SHAKARDARA, INDUS RIVERSIDE — ON-GROUND WORKFLOW
+
+Location and Context
+Shakardara is situated along the Indus River, one of the major rivers of South Asia, where alluvial (placer) gold has historically been recovered by local communities from riverbank gravel and sediment. The Indus and its tributaries carry fine gold particles eroded from upstream mountain geology over thousands of years, depositing them in sandbars, gravel beds, and floodplain sediment along the riverside. Small-scale and artisanal gold operations in this region typically follow a continuous, labor-and-machinery-based workflow rather than industrial chemical processing, relying on gravity separation and mercury amalgamation rather than cyanide leaching.
+
+Operating Schedule
+The operation runs 24 hours a day, structured around two labor shifts of 12 hours each (commonly a day shift and a night shift), allowing continuous excavation, washing, and recovery without downtime. Running a placer operation around the clock maximizes throughput of processed material, since the value of alluvial gold recovery depends heavily on the sheer volume of soil and gravel washed per day rather than on ore grade alone.
+
+Excavation
+Machinery (excavators/diggers) works continuously to dig soil at the deepest accessible point of the riverbank or floodplain deposit, since gold particles — being dense — tend to settle lower in the sediment profile, closer to bedrock or compacted clay layers. This deep excavation targets the richest concentration zone, sometimes referred to in placer mining as the "pay layer" or "pay streak."
+
+Material Transport
+Once excavated, tractors are used to shift the dug material from the excavation point to the washing area. This transport step is continuous and synchronized with the digging shift, ensuring a steady supply of raw material reaches the washing carpets without the machinery crew idling or the wash crew running short of material.
+
+Carpet Washing System (Sluice/Carpet Method)
+At the washing station, carpets (a traditional variant of a sluice box) are laid out, and the excavated soil is spread and run over them. The carpet's woven texture creates friction and turbulence similar to riffles in a conventional sluice box, trapping heavier gold particles in its fibers while lighter sand, silt, and gravel wash through and away with the water flow.
+
+Two plant sizes are run in parallel, with different cycle times reflecting their different volume capacity:
+- Big plants: run on a 4-hour washing session per cycle, processing larger volumes of soil over the carpets before the carpets are collected for cleanup.
+- Lower (smaller) plants: run on a shorter 1.5-hour cycle, suited to smaller batches and faster turnover.
+
+Carpet Cleanup
+After each session, laborers remove the carpets and wash them thoroughly inside a tub (locally sometimes called a "tup"), agitating and rinsing the fibers to release the trapped heavy material — a concentrate of black sand, fine gravel, and gold particles — into the tub. Once cleaned, the carpets are placed back in their original position on the washing line, ready for the next session, keeping the wash line continuously productive.
+
+Final Concentration and Amalgamation
+The material collected from the carpets is washed further by hand, progressively removing lighter sand and sediment until a dense residue known as "black soil" (black sand, typically composed of magnetite and other heavy minerals) remains, with fine gold particles mixed throughout. At this stage, mercury (locally referred to as "paraa") is added to the black sand concentrate. Mercury bonds readily with gold on contact, gathering the scattered fine gold particles together into a single soft, silvery amalgam ball, separating the gold from the remaining black sand and other heavy minerals. This amalgam is later heated to vaporize the mercury, leaving behind sponge gold, which is then melted and refined into final gold form.
+
+Workforce Roles Summary
+- Excavation crew: operates digging machinery at the deepest point of the deposit, working in 12-hour rotating shifts.
+- Transport crew: operates tractors, continuously moving dug material from the pit to the wash carpets.
+- Wash crew: manages the carpet lines, oversees the 4-hour (big plant) and 1.5-hour (small plant) wash cycles, and performs carpet cleanup in wash tubs.
+- Recovery/amalgamation crew: handles the final black sand concentrate and mercury amalgamation stage.
+
+Safety and Environmental Note
+Mercury amalgamation is an effective, low-cost way to recover fine gold, but mercury vapor released during heating is highly toxic if inhaled, and mercury residue entering river water or soil poses long-term contamination risks to aquatic life and communities downstream — a widely documented concern in artisanal gold mining worldwide. Operations using this method benefit from retorts (sealed heating vessels that capture and recondense mercury vapor instead of releasing it into the air) and from keeping amalgamation and heating activity away from the riverbank and open water sources wherever possible.

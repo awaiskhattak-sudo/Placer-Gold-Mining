@@ -1,0 +1,26 @@
+services:
+
+  ollama:
+    image: ollama/ollama:latest
+    container_name: gold-rag-ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_models:/root/.ollama
+
+  app:
+    build: .
+    container_name: gold-rag-app
+    ports:
+      - "8000:8000"
+    environment:
+      - OLLAMA_HOST=http://ollama:11434
+    env_file:
+      - .env
+    volumes:
+      - ./chroma_db:/app/chroma_db
+    depends_on:
+      - ollama
+
+volumes:
+  ollama_models:

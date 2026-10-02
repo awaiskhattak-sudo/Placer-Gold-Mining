@@ -1,0 +1,57 @@
+GOLD OPERATION REQUIREMENTS: MACHINERY, LABOR, FUEL, AND WATER SUPPLY
+
+Purpose
+This document lists the machinery, manpower, consumables, and infrastructure required to run a continuous 24-hour placer gold washing operation (as described in the Shakardara/Indus riverside operation), along with typical average fuel and resource consumption estimates used for daily planning and cost calculation.
+
+1. Machinery and Equipment
+
+Excavators
+Used for digging soil at the deepest point of the deposit (the pay layer). A mid-size excavator (approx. 20-30 ton class) typically runs continuously during the digging shift.
+- Average diesel consumption: approximately 15-20 liters per hour under normal digging load.
+- Over a 12-hour shift: roughly 180-240 liters per excavator per shift.
+- Over 24 hours (two shifts, assuming near-continuous digging): roughly 360-480 liters per excavator per day.
+
+Tractors
+Used to transport dug material from the excavation point to the washing carpets. Consumption is lower than excavators since tractors are not under constant heavy digging load, but run frequently in short haul cycles.
+- Average diesel consumption: approximately 8-12 liters per hour under normal haulage load.
+- Over a 12-hour shift: roughly 96-144 liters per tractor per shift.
+- Over 24 hours: roughly 190-290 liters per tractor per day.
+
+Generators
+Used to power site lighting (critical for night-shift operation), water pumps, and any electrical equipment at the washing plant.
+- Small/medium generator (10-20 kVA): approximately 3-5 liters of diesel per hour at normal load.
+- Larger generator (30-50 kVA, if pumps are electrically driven): approximately 6-10 liters per hour.
+- Over 24 hours: roughly 72-120 liters (small/medium) to 144-240 liters (larger) per generator per day.
+
+Washing Plant Components
+- Carpets: the primary gold-trapping medium laid across the wash line; require periodic replacement as fibers wear down from constant gravel abrasion.
+- Marble slabs: used as smooth, durable wash-table surfaces beneath or alongside carpet lines, helping guide water flow evenly and resist wear better than wood or metal sheeting over long continuous use.
+- Water pipes: used to draw and channel water from the Indus River to the washing plant. Standard pipe sections used on site measure 500 meters in length; the number of sections required depends on the distance between the river's water source point and the wash plant location, with additional sections or booster pumps needed as that distance increases.
+- Wash tubs ("tup"): used for carpet cleanup after each wash cycle, as described in the operation workflow.
+
+2. Fuel Summary
+- Diesel: primary fuel for excavators, tractors, and generators — the dominant fuel cost of the operation given 24-hour running.
+- Petrol: typically used for smaller auxiliary equipment (e.g., water pumps of lower capacity, small generators, or light vehicles) rather than heavy machinery.
+
+Estimated daily diesel demand (example for a mid-size operation with 1 excavator, 2 tractors, 1 medium generator, running 24 hours):
+- Excavator: ~360-480 liters/day
+- Tractors (x2): ~380-580 liters/day
+- Generator: ~72-120 liters/day
+- Estimated daily total: roughly 800-1,180 liters of diesel per day
+
+These figures scale up proportionally with additional machines (e.g., a second excavator or a bigger-plant setup running longer wash cycles will increase daily consumption accordingly).
+
+3. Water Supply
+- Source: Indus River, drawn via water pipes to supply the washing carpets continuously throughout both shifts.
+- Pipe specification: 500 meters per pipe section; total pipe requirement depends on the distance from the river's draw point to the wash plant, plus any elevation change requiring booster pumping.
+- Water usage is continuous during both the 4-hour (big plant) and 1.5-hour (lower plant) wash cycles, since carpet washing depends on a steady water flow to carry sediment through and trap heavier gold particles.
+
+4. Labor Requirements
+- Excavation crew: operates digging machinery, working in 12-hour rotating shifts (day/night).
+- Transport crew: operates tractors, shifting material continuously from pit to wash line.
+- Wash crew: manages carpet placement, oversees wash cycle timing (4-hour/1.5-hour), and performs carpet cleanup in wash tubs.
+- Recovery crew: handles black sand concentrate and mercury amalgamation at the final recovery stage.
+- Support roles: fuel handling/refueling staff, equipment maintenance/mechanics, and site supervision to coordinate shift handovers and maintain the 24-hour operating schedule without gaps.
+
+5. Maintenance and Consumables Note
+Continuous 24-hour operation significantly increases wear on machinery compared to standard single-shift use, making a reliable fuel supply chain, on-site fuel storage, and regular maintenance scheduling (oil changes, filter replacement, carpet replacement, pipe inspection for leaks) essential to avoiding costly downtime that would interrupt the digging-transport-washing cycle.

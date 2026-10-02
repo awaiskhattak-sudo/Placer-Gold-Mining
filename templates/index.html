@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Placer Gold Mining — AI Search Engine</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/htmx.org@1.9.12"></script>
+</head>
+<body class="bg-slate-50 min-h-screen">
+
+    <nav class="bg-amber-700 px-6 py-4">
+        <h1 class="text-white text-lg font-bold">⛏️ Placer Gold Mining — AI Search Engine</h1>
+        <p class="text-amber-100 text-sm">Shakardara operation knowledge base (geology, equipment, finance)</p>
+    </nav>
+
+    <main class="max-w-2xl mx-auto px-6 py-10">
+
+        <div class="bg-white shadow-sm rounded-lg p-6 border border-slate-200">
+            <h2 class="text-lg font-semibold text-slate-800 mb-1">Ask a question</h2>
+            <p class="text-slate-500 text-sm mb-5">
+                e.g. "How much diesel does the excavator use per day?" or "What is the profit margin for a big plant?"
+            </p>
+
+            <form hx-post="/search"
+                  hx-target="#results-container"
+                  hx-swap="innerHTML"
+                  hx-indicator="#loading-indicator"
+                  class="flex gap-2">
+
+                <input type="text" name="question" required
+                       placeholder="Type your question about the gold mining operation..."
+                       class="flex-1 border border-slate-300 rounded-md px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-amber-500">
+
+                <button type="submit"
+                        class="bg-amber-700 text-white rounded-md px-5 py-2 text-sm font-semibold hover:bg-amber-800 transition">
+                    Ask
+                </button>
+            </form>
+
+            <div id="loading-indicator" class="htmx-indicator flex items-center gap-2 mt-4 text-sm text-slate-500">
+                <svg class="animate-spin h-4 w-4 text-amber-700" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                    <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+                    <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8H4z"></path>
+                </svg>
+                Searching the knowledge base and generating an answer...
+            </div>
+        </div>
+
+        <div id="results-container" class="mt-6"></div>
+
+    </main>
+
+    <style>
+        .htmx-indicator { display: none; }
+        .htmx-request .htmx-indicator { display: flex; }
+        .htmx-request#loading-indicator { display: flex; }
+    </style>
+
+</body>
+</html>
